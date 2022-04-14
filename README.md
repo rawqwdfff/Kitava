@@ -16,7 +16,7 @@ To Setup the repo locally:
 Follow these steps:
 
 ```
-git clone https://github.com/
+git clone https://github.com/rawqwdfff/Kitava.git
 ```
 
 Make sure you have python 3 and pipenv installed on your pc.
